@@ -1,0 +1,59 @@
+* {
+    box-sizing:border-box;
+    }
+    
+    body {
+        font-family: "Hiragino Sans",sans-serif;
+        margin:0;
+    }
+
+    header {
+        border-top: 1px solid #C8DAF9;
+        border-bottom: 1px solid #C8DAF9;
+        height:60px;
+    }
+
+    .c-header {
+        width:100%;
+        max-width: 1100px;
+        margin:0 auto;
+        line-height: 60px;
+    }
+
+    .header-site-name {
+        float:left;
+    }
+
+    .header-site-name:hover {
+        cursor:pointer;
+    }
+
+    .header-site-name img {
+        width:40%;
+    }
+
+    .header-menus {
+        float:left;
+    }
+
+    .header-menu {
+        padding:20px;
+        font-size:12px;
+    }
+
+    .header-menu:hover {
+        cursor:pointer;
+        text-decoration: underline;
+    }
+
+    .header-icons {
+        float:right;
+    }
+
+    .fa-solid {
+        padding:10px;
+    }
+
+    .fa-solid:hover {
+        cursor:pointer;
+    }
