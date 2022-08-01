@@ -7,4 +7,12 @@
        display:none;
    }
 
+   .header-icons {
+    padding:0px;
+   }
+
+    .fa-solid {
+     margin-left:10px;
+    }
+
 }
