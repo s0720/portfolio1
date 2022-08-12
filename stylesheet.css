@@ -98,6 +98,7 @@
 
     aside li:hover {
         cursor:pointer;
+        opacity:0.6;
     }
 
     .sec_inner_1 {
@@ -308,8 +309,10 @@
     }
 
     .c-footer {
+        max-width:1000px;
         width:80%;
         margin:0 auto;
+        text-align:center;
     }
 
     .footer-category {
