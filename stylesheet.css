@@ -174,7 +174,9 @@
 
     .newitem p {
         width:80%;
+        margin:0 auto;
         font-size:12px;
+        padding:10px 0px;
     }
 
     .clear {
@@ -242,8 +244,10 @@
     
     .ranking-item p{
         width:80%;
+        margin:0 auto;
         text-align:center;
         font-size:12px;
+        padding:5px 0px;
     }
     
     .ranking li:nth-child(1)::before { 
