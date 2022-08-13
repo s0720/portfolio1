@@ -239,7 +239,8 @@
     }
     
     .ranking-item img {
-        width:80%;
+        width:116px;
+        height:128px;
     }
     
     .ranking-item p{
@@ -345,6 +346,23 @@
     .sp-category {
         display:none;
     }
+
+    .sp-c-footer {
+        display:none;
+    }
+
+    .sp-footer-category {
+        display:none;
+    }
+
+    .sp-footer-item {
+        display:none;
+    }
+
+    .sp-footer-title {
+        display:none;
+    }
+
 
     
 
