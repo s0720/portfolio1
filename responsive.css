@@ -101,17 +101,20 @@
     }
 
     .sp-c-footer {
+        display:block;
         width:80%;
         margin:0 auto;
         text-align:center;
     }
 
     .sp-footer-category {
+        display:block;
         float:left;
         width:50%;
     }
 
     .sp-footer-title {
+        display:block;
         font-size:16px;
     }
 
